@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Somesh Raichandani, @vancityraichandani
+- 👋 Hi, I’m Somesh Raichandani, @vancityraichandani. I started to code when I was 13.
 
-- 👀 I’m interested in Computer Science, Automating stuff, Artificial Intelligence, Microcontrollers, etc...
+- 👀 I’m interested in Computer Science, Automating stuff, Artificial Intelligence, Microcontrollers, etc. 
 
 - 🌱 I’m currently learning more about AI, making some cool projects and sharpening my DSA and Web Development 😋
 
