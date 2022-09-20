@@ -1,4 +1,4 @@
-![Hi there! I'm Somesh](https://en.bloggif.com/tmp/f386bc0657a79a77170a2f6d2f1ff6a7/text.gif?1663365041)
+![Hi there! I'm Somesh](https://drive.google.com/file/d/1hGywJq8OGy4raydNMa00eFIXR16P_6ay/view?usp=sharing)
 
 # Portfolio -> [someshraichandani.com](https://someshraichandani.netlify.app/)
 
