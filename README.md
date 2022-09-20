@@ -1,4 +1,4 @@
-![Hi there! I'm Somesh](https://ibb.co/b2bqRjZ)
+![Hi there! I'm Somesh](https://c.tenor.com/XU3361gs9L4AAAAM/looney-tunes-daffy-duck.gif)
 
 # Portfolio -> [someshraichandani.com](https://someshraichandani.netlify.app/)
 
