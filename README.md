@@ -1,4 +1,4 @@
-![Hi there! I'm Somesh](https://drive.google.com/file/d/1hGywJq8OGy4raydNMa00eFIXR16P_6ay/view?usp=sharing)
+![Hi there! I'm Somesh](https://ibb.co/b2bqRjZ)
 
 # Portfolio -> [someshraichandani.com](https://someshraichandani.netlify.app/)
 
